@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LongestIncreasingSubset": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
