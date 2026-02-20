@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ILISService
+namespace LongestIncreasingService
 {
-    public class LISService 
+    public class LongestIncreasingServiceClass : ILongestIncreasingService
     {
         public IReadOnlyList<int> GetLongestIncreasingSubsequence(string input)
         {

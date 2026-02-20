@@ -1,16 +1,15 @@
-using ILISService;
-
+using LongestIncreasingService;
 
 namespace LISTest
 {
 
     public class LisServiceTests
     {
-        private readonly LISService _service;
+        private readonly LongestIncreasingServiceClass _service;
 
         public LisServiceTests()
         {
-            _service = new LISService();
+            _service = new LongestIncreasingServiceClass();
         }
 
         [Fact]

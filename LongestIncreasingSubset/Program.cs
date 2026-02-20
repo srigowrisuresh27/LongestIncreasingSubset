@@ -1,6 +1,5 @@
 ﻿
-
-using ILISService;
+using LongestIncreasingService;
 
 internal class Program
 {
@@ -9,7 +8,7 @@ internal class Program
         Console.WriteLine("Enter integers separated by single whitespace:");
         string? input = Console.ReadLine();
 
-        LISService lisService = new LISService();
+        ILongestIncreasingService lisService = new LongestIncreasingServiceClass();
 
         var result = lisService.GetLongestIncreasingSubsequence(input ?? string.Empty);
 

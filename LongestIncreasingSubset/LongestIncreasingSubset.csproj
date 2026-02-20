@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ILISService\LISService.csproj" />
+    <ProjectReference Include="..\LongestIncreasingService\LongestIncreasingService.csproj" />
   </ItemGroup>
 
 
