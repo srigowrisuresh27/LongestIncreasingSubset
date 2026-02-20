@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\ILISService\ILISService.csproj" />
+    <ProjectReference Include="..\ILISService\LISService.csproj" />
   </ItemGroup>
 
   <ItemGroup>

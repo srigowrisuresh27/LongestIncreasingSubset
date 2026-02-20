@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.37012.4
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestIncreasingSubset", "LongestIncreasingSubset\LongestIncreasingSubset.csproj", "{D33B9BB5-F419-4EF3-8D95-F413DA0F4294}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ILISService", "ILISService\ILISService.csproj", "{C27CA1AF-7610-4B22-B545-88AF94D16D8D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISService", "ILISService\LISService.csproj", "{C27CA1AF-7610-4B22-B545-88AF94D16D8D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LISTest", "LISTest\LISTest.csproj", "{B96317CB-5DDB-4D6A-B6A0-602BF67C1955}"
 EndProject
