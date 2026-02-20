@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ILISService
 {
-    public class LISService : ILISService
+    public class LISService 
     {
         public IReadOnlyList<int> GetLongestIncreasingSubsequence(string input)
         {
