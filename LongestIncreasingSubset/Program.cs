@@ -13,6 +13,6 @@ internal class Program
         var result = lisService.GetLongestIncreasingSubsequence(input ?? string.Empty);
 
         Console.WriteLine("Longest Increasing Subsequence:");
-        Console.WriteLine(string.Join(" ", result)); 
+        Console.WriteLine(string.Join(" ", result)) ; 
     }
 }
